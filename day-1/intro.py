@@ -24,5 +24,5 @@ print(f"I'm from {student['city'].title()}.")
 print(f"My favourite subject is {student['favourite_subject'].title()}.")
 print(f"My target role is {student['target_role'].title()}.")
 
-print("\nNice to meet you all!".upper())
+print("\nNice to meet you!".upper())
 print("Let's have a great learning experience together!".lower())
