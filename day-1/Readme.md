@@ -19,8 +19,8 @@ Day 1 self-practice — 10 Python tasks covering variables, loops, functions, di
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/aiml-crash-[your-name].git
-cd aiml-crash-[your-name]
+git clone https://github.com/hardik450/aiml-crash-hardikjain.git
+cd aiml-crash-hardikjain
 python -m venv .venv
 source .venv/bin/activate   # macOS / Linux
 .venv\Scripts\activate      # Windows
