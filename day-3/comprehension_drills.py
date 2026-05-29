@@ -2,6 +2,7 @@
 # This script demonstrates the use of list comprehensions, dictionary comprehensions, and set comprehensions to filter and transform data in various ways.
 # The code includes examples of filtering integers, transforming words, converting temperatures, flattening nested lists, and extracting data from dictionaries and sets.
 
+
 int_list = [22, 35, 27, 42, 19, 50, 31, 28, 40, 26, 33, 24, 38, 29, 41, 30, 36, 25, 27, 34]
 word_list = ["apple", "banana", "cherry", "date", "elderberry", "fig", "grape", "honeydew", "kiwi", "lemon", "plum", "berry", "peach", "mango", "nectarine", "orange", "papaya", "quince", "raspberry", "strawberry"]
 temperature_list = [72, 85, 78, 90, 68, 80, 82, 75, 88, 70, 77, 83, 79, 91, 74, 81, 76, 89, 73]
