@@ -2,6 +2,7 @@
 # It creates a DataFrame with student information, calculates average scores for different subjects, identifies the student with the highest total score, counts the number of students from each city, and lists students with a math score above a certain threshold. 
 # Additionally, it shows how to find the top students based on their total scores using the nlargest method for efficient retrieval.
 
+
 import pandas as pd
 df = pd.DataFrame({
     'name': ['Alice', 'Bob', 'Charlie', 'David', 'Eve', 'Frank', 'Grace', 'Heidi', 'Ivan', 'Judy'],
