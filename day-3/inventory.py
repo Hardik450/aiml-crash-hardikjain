@@ -4,7 +4,6 @@
 # The code also demonstrates the use of static methods and class methods in Python, as well as the difference between them.
 
 import csv
-
 class Product:
     def __init__(self, name: str, price: float, quantity: int):
         self.name = name

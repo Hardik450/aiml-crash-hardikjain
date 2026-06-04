@@ -1,5 +1,6 @@
 import json
 from typing import Any
+
 def save_config(config: dict, file_path: str) -> None:
     """Save configuration to a JSON file.
     :param config: A dictionary containing the configuration settings

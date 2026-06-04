@@ -2,6 +2,7 @@
 # The calculator supports addition, subtraction, multiplication, division, exponentiation, and modulo operations.
 # The code includes error handling for division and modulo by zero, as well as invalid input and operation selection. 
 # The calculator function serves as the main entry point for user interaction.
+
 from typing import Optional
 def add(a: int, b: int) -> int:
     """

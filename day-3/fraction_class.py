@@ -1,5 +1,6 @@
 import math
 import functools
+
 @functools.total_ordering
 class Fraction:
     numerator: int

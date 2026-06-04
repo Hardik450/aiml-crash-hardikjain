@@ -2,6 +2,7 @@
 # It includes methods to calculate the average marks and determine the grade based on the average. 
 # The __str__ method provides a formatted string representation of the student's information.
 
+
 class Student:
     school_name = "ABC High School"
     def __init__(self, name, rollno, marks):

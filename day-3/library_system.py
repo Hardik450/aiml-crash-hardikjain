@@ -2,6 +2,7 @@
 # The code defines a base class LibraryItem and two subclasses Book and EBook that inherit from LibraryItem. 
 # Each class has its own attributes and a describe method that provides a string representation of the item.
 # The code also includes examples of creating instances of the classes, calling their methods, and using isinstance to check the type of the instances.
+
 class LibraryItem:
     def __init__(self, title, author, year):
         self.title = title
