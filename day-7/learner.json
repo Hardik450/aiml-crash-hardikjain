@@ -1,0 +1,8 @@
+{
+    "name": "Priya Sharma",
+    "role": "Data Science Intern",
+    "city": "Bangalore",
+    "skills": ["Python", "Pandas", "SQL", "Machine Learning", "Git"],
+    "projects_completed": 3,
+    "cohort": "AI/ML Crash Course — Batch 7"
+}
