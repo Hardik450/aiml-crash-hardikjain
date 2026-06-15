@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Performance Analysis
+# E-Commerce Sales Performance Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas&logoColor=white)
@@ -13,7 +13,7 @@
 ## Project Structure
 
 ```
-olist-eda/
+phase-1/
 ├── olist_eda_notebook.ipynb      ← Complete EDA Jupyter Notebook (60 cells, 12 questions)
 ├── ONE_PAGE_REPORT.md            ← One-page business report (Deliverable 3)
 ├── README.md                     ← This file
@@ -49,7 +49,7 @@ olist-eda/
 ```bash
 # 1. Clone the repo
 git clone https://github.com/<your-username>/olist-eda.git
-cd olist-eda
+cd phase-1
 
 # 2. Create and activate virtual environment
 python -m venv .venv
