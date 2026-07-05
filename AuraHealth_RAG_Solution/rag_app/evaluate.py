@@ -1,8 +1,3 @@
-"""
-Runs the 30 evaluation questions from Task.md against the RAG pipeline
-and prints each question, the top retrieved sources, and the generated
-answer. Requires GROQ_API_KEY to be set in the environment.
-"""
 import json
 import time
 from rag_pipeline import RAGPipeline

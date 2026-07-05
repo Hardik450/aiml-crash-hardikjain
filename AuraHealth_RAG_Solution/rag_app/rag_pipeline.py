@@ -1,11 +1,4 @@
-"""
-End-to-end RAG pipeline orchestrator for the AuraHealth Nexus system.
 
-Combines: loading -> chunking -> embedding/vector store -> retrieval -> generation.
-Also implements the bonus challenge: conversational memory, so follow-up
-questions ("And what is the treatment for it?") can be resolved using
-prior turns.
-"""
 import os
 from typing import List, Optional
 

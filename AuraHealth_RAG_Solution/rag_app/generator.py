@@ -1,10 +1,4 @@
-"""
-Generation module for the AuraHealth Nexus RAG system.
 
-Uses Groq's OpenAI-compatible chat completions API with a Llama model for grounded answer generation.
-The system prompt strictly instructs the model to answer only from the
-provided context and to say so explicitly when the answer is unavailable.
-"""
 import os
 from typing import List, Tuple, Optional, Dict, Any
 from dotenv import load_dotenv
