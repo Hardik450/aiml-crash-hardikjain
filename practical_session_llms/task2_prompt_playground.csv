@@ -1,0 +1,70 @@
+timestamp,prompt_variant,prompt_text,response_text,response_time_sec,total_tokens,word_count,length_score,structure_score,total_score
+2026-06-23T09:07:11,1_naive,"Summarize this article: The local council announced a new initiative on Tuesday aimed at reducing traffic
+congestion in the city center. The plan includes expanding bus routes, adding
+protected bike lanes on three major streets, and introducing a congestion charge
+for vehicles entering downtown during peak hours starting next spring. Officials
+said the changes were driven by a study showing that average commute times had
+increased by 22% over the past five years, with downtown air quality also
+declining. Business owners in the area expressed mixed reactions: some welcomed
+the reduced congestion as good for foot traffic, while others worried the
+congestion charge would discourage customers from driving in. The council plans
+to hold public consultations over the next two months before finalizing the
+policy, with a final vote expected in early autumn.","[MOCK Groq response] This is a simulated response used for demonstration purposes. Once you add a real API key, this text will be replaced by an actual model-generated answer.",0.369,258,29,10,7,17
+2026-06-23T09:07:12,2_role_based,"You are an expert news editor with 20 years of experience writing concise, accurate summaries for busy readers. Summarize the following article in a way that captures the most newsworthy points:
+
+The local council announced a new initiative on Tuesday aimed at reducing traffic
+congestion in the city center. The plan includes expanding bus routes, adding
+protected bike lanes on three major streets, and introducing a congestion charge
+for vehicles entering downtown during peak hours starting next spring. Officials
+said the changes were driven by a study showing that average commute times had
+increased by 22% over the past five years, with downtown air quality also
+declining. Business owners in the area expressed mixed reactions: some welcomed
+the reduced congestion as good for foot traffic, while others worried the
+congestion charge would discourage customers from driving in. The council plans
+to hold public consultations over the next two months before finalizing the
+policy, with a final vote expected in early autumn.","[MOCK Groq response] The analysis suggests three main takeaways: first, the core trend is positive; second, there are some risks to monitor; third, further data would help confirm this.",0.837,304,29,10,2,12
+2026-06-23T09:07:13,3_structured_format,"Summarize the following article in exactly 3 bullet points, each under 15 words, covering: (1) what happened, (2) why it matters, (3) what happens next.
+
+Article:
+The local council announced a new initiative on Tuesday aimed at reducing traffic
+congestion in the city center. The plan includes expanding bus routes, adding
+protected bike lanes on three major streets, and introducing a congestion charge
+for vehicles entering downtown during peak hours starting next spring. Officials
+said the changes were driven by a study showing that average commute times had
+increased by 22% over the past five years, with downtown air quality also
+declining. Business owners in the area expressed mixed reactions: some welcomed
+the reduced congestion as good for foot traffic, while others worried the
+congestion charge would discourage customers from driving in. The council plans
+to hold public consultations over the next two months before finalizing the
+policy, with a final vote expected in early autumn.","[MOCK Groq response] Based on the information provided, here is a concise summary of the key points discussed, highlighting the most relevant details for your review.",0.709,290,26,10,2,12
+2026-06-23T09:07:13,4_few_shot,"Here is an example of a good news summary:
+Example article: 'The city approved a new park budget of $2M, to be spent on playgrounds and trails, after years of resident requests.'
+Example summary: 'City approved a $2M park budget for playgrounds and trails after sustained resident demand.'
+
+Now summarize this article in the same style (one sentence, neutral tone):
+
+The local council announced a new initiative on Tuesday aimed at reducing traffic
+congestion in the city center. The plan includes expanding bus routes, adding
+protected bike lanes on three major streets, and introducing a congestion charge
+for vehicles entering downtown during peak hours starting next spring. Officials
+said the changes were driven by a study showing that average commute times had
+increased by 22% over the past five years, with downtown air quality also
+declining. Business owners in the area expressed mixed reactions: some welcomed
+the reduced congestion as good for foot traffic, while others worried the
+congestion charge would discourage customers from driving in. The council plans
+to hold public consultations over the next two months before finalizing the
+policy, with a final vote expected in early autumn.","[MOCK Groq response] Based on the information provided, here is a concise summary of the key points discussed, highlighting the most relevant details for your review.",0.65,341,26,10,2,12
+2026-06-23T09:07:14,5_chain_of_thought,"First, identify the 3 most important facts in this article. Then, using only those facts, write a single concise summary paragraph (max 40 words). Show your reasoning step by step, then give the final summary clearly labeled 'FINAL SUMMARY:'.
+
+Article:
+The local council announced a new initiative on Tuesday aimed at reducing traffic
+congestion in the city center. The plan includes expanding bus routes, adding
+protected bike lanes on three major streets, and introducing a congestion charge
+for vehicles entering downtown during peak hours starting next spring. Officials
+said the changes were driven by a study showing that average commute times had
+increased by 22% over the past five years, with downtown air quality also
+declining. Business owners in the area expressed mixed reactions: some welcomed
+the reduced congestion as good for foot traffic, while others worried the
+congestion charge would discourage customers from driving in. The council plans
+to hold public consultations over the next two months before finalizing the
+policy, with a final vote expected in early autumn.","[MOCK Groq response] The analysis suggests three main takeaways: first, the core trend is positive; second, there are some risks to monitor; third, further data would help confirm this.",0.362,318,29,10,2,12

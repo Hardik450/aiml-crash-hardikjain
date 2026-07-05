@@ -1,0 +1,19 @@
+{
+  "total_requests": 4,
+  "total_prompt_tokens": 50,
+  "total_completion_tokens": 180,
+  "total_tokens": 230,
+  "total_cost_usd": 3.6e-05,
+  "by_provider": {
+    "Gemini": {
+      "requests": 2,
+      "tokens": 109,
+      "cost_usd": 2.8e-05
+    },
+    "Groq": {
+      "requests": 2,
+      "tokens": 121,
+      "cost_usd": 8e-06
+    }
+  }
+}

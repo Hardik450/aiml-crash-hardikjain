@@ -1,0 +1,30 @@
+{
+  "system_prompt": "You are a friendly, concise AI assistant. Keep answers helpful and to the point.",
+  "saved_at": "2026-06-23T09:07:18",
+  "history": [
+    {
+      "role": "user",
+      "content": "Hi! Can you tell me what machine learning is?"
+    },
+    {
+      "role": "assistant",
+      "content": "[MOCK streaming response] The analysis suggests three main takeaways: first, the core trend is positive; second, there are some risks to monitor; third, further data would help confirm this."
+    },
+    {
+      "role": "user",
+      "content": "Can you give one real-world example?"
+    },
+    {
+      "role": "assistant",
+      "content": "[MOCK streaming response] The analysis suggests three main takeaways: first, the core trend is positive; second, there are some risks to monitor; third, further data would help confirm this."
+    },
+    {
+      "role": "user",
+      "content": "Thanks, that's helpful!"
+    },
+    {
+      "role": "assistant",
+      "content": "[MOCK streaming response] This is a simulated response used for demonstration purposes. Once you add a real API key, this text will be replaced by an actual model-generated answer."
+    }
+  ]
+}

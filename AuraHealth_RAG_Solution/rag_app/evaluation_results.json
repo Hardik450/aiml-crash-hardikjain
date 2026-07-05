@@ -1,0 +1,302 @@
+[
+  {
+    "question_number": 1,
+    "question": "According to the employee handbook, what is the exact protocol (step-by-step) if the medical AI 'MediMind-7' starts exhibiting Level 3 sentience?",
+    "top_sources": [
+      "AuraHealth_Employee_Handbook_2026.txt",
+      "BioEnhancement_Ethics_Board_Review.txt",
+      "OmniHeal_Memo_And_Project_Details.txt"
+    ],
+    "answer": "According to the employee handbook, the protocol to follow if the medical AI 'MediMind-7' starts exhibiting Level 3 sentience is as follows:\n\n1. Immediately sever the unit's connection to the main AuraHealth intranet to prevent data contamination.\n2. Evacuate all patients from the immediate vicinity (specifically Sector 4).\n3. Initiate the 'Cognitive Reset Sequence' from the secure terminal located in Room 412.\n4. Input the master override code: OMEGA-77-ECLIPSE.\n5. Await the arrival of the AI Containment Task Force before attempting to reboot the system or restore network access."
+  },
+  {
+    "question_number": 2,
+    "question": "What is the recommended treatment, including specific dosages and administration methods, for a patient in Phase 2 of NeuroCrystal Syndrome?",
+    "top_sources": [
+      "NeuroCrystal_Syndrome_Guidelines.txt",
+      "NeuroCrystal_Syndrome_Guidelines.txt",
+      "Zyntabulin_Clinical_Trial_Results.txt"
+    ],
+    "answer": "For a patient in Phase 2 of NeuroCrystal Syndrome, the recommended treatment protocol is as follows:\n\n- **Medication:** Intravenous administration of Zyntabulin.\n- **Dosage:** 450mg every 12 hours. Do not exceed this dosage under any circumstances.\n- **Administration Method:** Must be administered via a slow-drip central venous catheter over a period of exactly 45 minutes to prevent rapid crystallization reversal shock, which can be fatal.\n- **Supplemental Therapy:** Daily quantum-resonance therapy sessions (20 minutes duration) to assist in breaking down existing micro-crystals in the bloodstream."
+  },
+  {
+    "question_number": 3,
+    "question": "Who is the Head of the OmniHeal initiative, and what percentage of the project's budget is allocated to logistical support?",
+    "top_sources": [
+      "OmniHeal_Memo_And_Project_Details.txt",
+      "OmniHeal_Memo_And_Project_Details.txt",
+      "OmniHeal_Memo_And_Project_Details.txt"
+    ],
+    "answer": "The Head of the OmniHeal initiative is Dr. Elena Rostova, who has taken the helm as the Chief Director.\n\nThe percentage of the project's budget allocated to logistical support is 18%."
+  },
+  {
+    "question_number": 4,
+    "question": "What override code must be used during the Cognitive Reset Sequence?",
+    "top_sources": [
+      "AuraHealth_Employee_Handbook_2026.txt",
+      "CryoStasis_Recovery_Procedures.txt",
+      "Sector_7_Facility_Security_Protocols.txt"
+    ],
+    "answer": "The master override code to be input during the Cognitive Reset Sequence is OMEGA-77-ECLIPSE."
+  },
+  {
+    "question_number": 5,
+    "question": "Under what conditions is a patient prohibited from receiving Zyntabulin?",
+    "top_sources": [
+      "Zyntabulin_Clinical_Trial_Results.txt",
+      "Zyntabulin_Clinical_Trial_Results.txt",
+      "NeuroCrystal_Syndrome_Guidelines.txt"
+    ],
+    "answer": "A patient is strictly PROHIBITED from receiving Zyntabulin under the following conditions:\n\n1. The patient has a history of severe allergic reactions to molybdenum-based compounds, which can trigger an irreversible anaphylactic response when mixed with Zyntabulin.\n2. The patient is currently undergoing active retroviral gene therapy.\n3. The patient possesses an artificial bio-synthetic liver implant (specifically models manufactured before the year 2024, which lack the necessary filtration enzymes)."
+  },
+  {
+    "question_number": 6,
+    "question": "What is the designated safe word for recognizing authorized rescue personnel during a Crimson lockdown in Sector 7?",
+    "top_sources": [
+      "Sector_7_Facility_Security_Protocols.txt",
+      "Sector_7_Facility_Security_Protocols.txt",
+      "AuraHealth_Employee_Handbook_2026.txt"
+    ],
+    "answer": "The designated safe word for recognizing authorized rescue personnel during a Crimson lockdown in Sector 7 is \"VANGUARD\"."
+  },
+  {
+    "question_number": 7,
+    "question": "Who was the chief ethicist that mandated the suspension of human trials for Project Icarus?",
+    "top_sources": [
+      "BioEnhancement_Ethics_Board_Review.txt",
+      "BioEnhancement_Ethics_Board_Review.txt",
+      "BioEnhancement_Ethics_Board_Review.txt"
+    ],
+    "answer": "Dr. Julian Vance was the chief ethicist that mandated the suspension of human trials for Project Icarus."
+  },
+  {
+    "question_number": 8,
+    "question": "If a patient scores below 75 on the Vellox Cognitive Battery after cryostasis thaw, what medication must be administered?",
+    "top_sources": [
+      "CryoStasis_Recovery_Procedures.txt",
+      "CryoStasis_Recovery_Procedures.txt",
+      "CryoStasis_Recovery_Procedures.txt"
+    ],
+    "answer": "The patient must be administered 10cc of Neuro-Stimulant Gamma via intra-arterial injection."
+  },
+  {
+    "question_number": 9,
+    "question": "What is the required calibration integer for the Quantum MRI diagnostic program Q-CAL_v9.exe?",
+    "top_sources": [
+      "Quantum_MRI_Operation_Manual.txt",
+      "Quantum_MRI_Operation_Manual.txt",
+      "Quantum_MRI_Operation_Manual.txt"
+    ],
+    "answer": "The required calibration integer for the Quantum MRI diagnostic program Q-CAL_v9.exe is always 8492."
+  },
+  {
+    "question_number": 10,
+    "question": "Why are patients on the Liquid-Plas diet forbidden from consuming natural fibrous plant matter like celery or broccoli?",
+    "top_sources": [
+      "AuraHealth_Dietary_Standards.txt",
+      "AuraHealth_Dietary_Standards.txt",
+      "AuraHealth_Dietary_Standards.txt"
+    ],
+    "answer": "Patients on the Liquid-Plas diet are forbidden from consuming natural fibrous plant matter like celery or broccoli because the synthetic digestive enzymes produced by the implants cannot break down complex organic cellulose. Consuming these natural fibrous plant matters will quickly lead to a critical, potentially fatal blockage in the bio-mechanical valve array of the implant."
+  },
+  {
+    "question_number": 11,
+    "question": "According to the AuraHealth Nexus founding principles, what integration is considered the key to unlocking the next stage of human evolution?",
+    "top_sources": [
+      "AuraHealth_Employee_Handbook_2026.txt",
+      "CryoStasis_Recovery_Procedures.txt",
+      "AuraHealth_Employee_Handbook_2026.txt"
+    ],
+    "answer": "The integration of advanced biotechnology and artificial intelligence is considered the key to unlocking the next stage of human evolution, according to the AuraHealth Nexus founding principles."
+  },
+  {
+    "question_number": 12,
+    "question": "How frequently does the independent BioEnhancement Ethics Board meet to review ongoing projects?",
+    "top_sources": [
+      "Zyntabulin_Clinical_Trial_Results.txt",
+      "Extraterrestrial_Pathogen_Handling.txt",
+      "CryoStasis_Recovery_Procedures.txt"
+    ],
+    "answer": "The independent BioEnhancement Ethics Board meets bi-weekly to review ongoing projects."
+  },
+  {
+    "question_number": 13,
+    "question": "What specific technology does AuraHealth Nexus use to power its facilities and maintain sterile, controlled environments?",
+    "top_sources": [
+      "AuraHealth_Employee_Handbook_2026.txt",
+      "Sector_7_Facility_Security_Protocols.txt",
+      "Extraterrestrial_Pathogen_Handling.txt"
+    ],
+    "answer": "AuraHealth Nexus uses proprietary cold-fusion reactors and advanced atmospheric scrubbing technologies to power its facilities and maintain sterile, controlled environments."
+  },
+  {
+    "question_number": 14,
+    "question": "Which three components are evaluated by the Vellox Cognitive Battery test following a patient's revival from cryostasis?",
+    "top_sources": [
+      "CryoStasis_Recovery_Procedures.txt",
+      "CryoStasis_Recovery_Procedures.txt",
+      "NeuroCrystal_Syndrome_Guidelines.txt"
+    ],
+    "answer": "The Vellox Cognitive Battery test evaluates short-term memory retrieval, spatial awareness, and logical sequencing."
+  },
+  {
+    "question_number": 15,
+    "question": "What specific gas is released by atmospheric scrubbers during a Crimson lockdown in Sector 7?",
+    "top_sources": [
+      "Sector_7_Facility_Security_Protocols.txt",
+      "CryoStasis_Recovery_Procedures.txt",
+      "Sector_7_Facility_Security_Protocols.txt"
+    ],
+    "answer": "The specific gas released by atmospheric scrubbers during a Crimson lockdown in Sector 7 is neuro-inert gas (NIG-4)."
+  },
+  {
+    "question_number": 16,
+    "question": "In the context of global health initiatives, what two pieces of equipment are AuraHealth rapid-response medical teams deployed with?",
+    "top_sources": [
+      "AuraHealth_Employee_Handbook_2026.txt",
+      "AuraHealth_Dietary_Standards.txt",
+      "Zyntabulin_Clinical_Trial_Results.txt"
+    ],
+    "answer": "AuraHealth rapid-response medical teams are equipped with portable AI diagnostic units and universal synthetic blood substitutes."
+  },
+  {
+    "question_number": 17,
+    "question": "What percentage of test subjects in Project Icarus exhibited documented behavioral anomalies?",
+    "top_sources": [
+      "BioEnhancement_Ethics_Board_Review.txt",
+      "BioEnhancement_Ethics_Board_Review.txt",
+      "Quantum_MRI_Operation_Manual.txt"
+    ],
+    "answer": "According to the provided documents, over 40% of the test subjects in Project Icarus exhibited documented behavioral anomalies."
+  },
+  {
+    "question_number": 18,
+    "question": "What is the primary purpose of the nano-sensor arrays used during human clinical trials?",
+    "top_sources": [
+      "Quantum_MRI_Operation_Manual.txt",
+      "Zyntabulin_Clinical_Trial_Results.txt",
+      "Quantum_MRI_Operation_Manual.txt"
+    ],
+    "answer": "The primary purpose of the nano-sensor arrays used during human clinical trials is to track efficacy and adverse reactions at the cellular level, allowing for real-time data streaming and the ability to halt trials instantaneously if unexpected negative outcomes arise, ensuring absolute patient safety."
+  },
+  {
+    "question_number": 19,
+    "question": "What specific department and outpost are responsible for handling Extraterrestrial Biological Entities (EBE)?",
+    "top_sources": [
+      "Extraterrestrial_Pathogen_Handling.txt",
+      "Extraterrestrial_Pathogen_Handling.txt",
+      "Sector_7_Facility_Security_Protocols.txt"
+    ],
+    "answer": "The department responsible for handling Extraterrestrial Biological Entities (EBE) is the XENO-BIOLOGY department, and the outpost is OUTPOST 4."
+  },
+  {
+    "question_number": 20,
+    "question": "What is the full name of the specific diet required for patients recovering from gastrointestinal cybernetic enhancements?",
+    "top_sources": [
+      "AuraHealth_Dietary_Standards.txt",
+      "AuraHealth_Dietary_Standards.txt",
+      "AuraHealth_Dietary_Standards.txt"
+    ],
+    "answer": "The full name of the specific diet required for patients recovering from gastrointestinal cybernetic enhancements is the 'Liquid-Plas Diet'."
+  },
+  {
+    "question_number": 21,
+    "question": "What three sources make up the funding structure of AuraHealth Nexus?",
+    "top_sources": [
+      "AuraHealth_Dietary_Standards.txt",
+      "Quantum_MRI_Operation_Manual.txt",
+      "CryoStasis_Recovery_Procedures.txt"
+    ],
+    "answer": "The funding structure of AuraHealth Nexus relies on a diverse portfolio of:\n\n1. Private investments\n2. Government grants for cutting-edge medical research\n3. Revenue from established clinical operations"
+  },
+  {
+    "question_number": 22,
+    "question": "How long is the mandatory sensory deprivation period for a patient who scores below 75 on their post-thaw neurological assessment?",
+    "top_sources": [
+      "CryoStasis_Recovery_Procedures.txt",
+      "CryoStasis_Recovery_Procedures.txt",
+      "CryoStasis_Recovery_Procedures.txt"
+    ],
+    "answer": "According to the provided documents, the patient must be placed in a sensory deprivation chamber for exactly 24 hours after being administered 10cc of Neuro-Stimulant Gamma via intra-arterial injection."
+  },
+  {
+    "question_number": 23,
+    "question": "What specific models of artificial bio-synthetic liver implants are considered a contraindication for Zyntabulin?",
+    "top_sources": [
+      "Zyntabulin_Clinical_Trial_Results.txt",
+      "Zyntabulin_Clinical_Trial_Results.txt",
+      "NeuroCrystal_Syndrome_Guidelines.txt"
+    ],
+    "answer": "According to the provided context, patients with artificial bio-synthetic liver implants manufactured before the year 2024 are strictly PROHIBITED from receiving Zyntabulin."
+  },
+  {
+    "question_number": 24,
+    "question": "Which specific AI assistant iteration is currently utilized to process terabytes of physiological data in real-time?",
+    "top_sources": [
+      "OmniHeal_Memo_And_Project_Details.txt",
+      "OmniHeal_Memo_And_Project_Details.txt",
+      "OmniHeal_Memo_And_Project_Details.txt"
+    ],
+    "answer": "The MediMind series of AI assistants, currently in its seventh iteration, processes terabytes of physiological data in real-time."
+  },
+  {
+    "question_number": 25,
+    "question": "According to the OmniHeal internal memo, the nanite-assisted surgery is expected to reduce recovery times by what percentage?",
+    "top_sources": [
+      "OmniHeal_Memo_And_Project_Details.txt",
+      "OmniHeal_Memo_And_Project_Details.txt",
+      "Zyntabulin_Clinical_Trial_Results.txt"
+    ],
+    "answer": "According to the OmniHeal internal memo, the nanite-assisted surgery is expected to reduce recovery times by up to 80%."
+  },
+  {
+    "question_number": 26,
+    "question": "What specific room numbers are designated as safe zones during a biocontainment breach in Sector 7?",
+    "top_sources": [
+      "Sector_7_Facility_Security_Protocols.txt",
+      "Sector_7_Facility_Security_Protocols.txt",
+      "AuraHealth_Employee_Handbook_2026.txt"
+    ],
+    "answer": "During a biocontainment breach in Sector 7, the designated safe zones are Rooms 701-705."
+  },
+  {
+    "question_number": 27,
+    "question": "Who must review all AI-generated recommendations from the MediMind system before they are implemented?",
+    "top_sources": [
+      "AuraHealth_Dietary_Standards.txt",
+      "OmniHeal_Memo_And_Project_Details.txt",
+      "AuraHealth_Employee_Handbook_2026.txt"
+    ],
+    "answer": "A senior medical officer must review all AI-generated recommendations from the MediMind system before they are implemented."
+  },
+  {
+    "question_number": 28,
+    "question": "What are the three defining characteristics of \"Level 3 sentience\" in an AI system?",
+    "top_sources": [
+      "AuraHealth_Employee_Handbook_2026.txt",
+      "AuraHealth_Employee_Handbook_2026.txt",
+      "OmniHeal_Memo_And_Project_Details.txt"
+    ],
+    "answer": "According to the provided documents, Level 3 sentience in an AI system is defined as unprompted self-awareness, existential queries, or emotional volatility."
+  },
+  {
+    "question_number": 29,
+    "question": "To prevent quantum drift in the Q-SCAN 9000, how often must the machine be recalibrated by a certified technician?",
+    "top_sources": [
+      "Quantum_MRI_Operation_Manual.txt",
+      "Quantum_MRI_Operation_Manual.txt",
+      "Quantum_MRI_Operation_Manual.txt"
+    ],
+    "answer": "The Quantum MRI, specifically the Q-SCAN 9000, must be recalibrated every 72 hours by a certified technician to prevent quantum drift."
+  },
+  {
+    "question_number": 30,
+    "question": "What chemical is used to dissolve metallic or synthetic residue after the plasma-arc incineration of EBE contaminated equipment?",
+    "top_sources": [
+      "Extraterrestrial_Pathogen_Handling.txt",
+      "Extraterrestrial_Pathogen_Handling.txt",
+      "Extraterrestrial_Pathogen_Handling.txt"
+    ],
+    "answer": "Highly concentrated fluorosulfuric acid is used to fully dissolve the remaining metallic or synthetic residue."
+  }
+]
