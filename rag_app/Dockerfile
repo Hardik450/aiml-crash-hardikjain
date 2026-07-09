@@ -23,5 +23,4 @@ ENV PORT=7860
 EXPOSE 7860
 ENV PYTHONUNBUFFERED=1
 
-# Fixed Module call (app instead of app.py)
-CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "7860"]
+CMD ["sh", "-c", "uvicorn app:app --host 0.0.0.0 --port ${PORT:-10000}"]
