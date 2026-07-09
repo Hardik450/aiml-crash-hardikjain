@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": "cabf76ab-383b-44a0-8333-93b83fd8678c",
+      "username": "hardikjain",
+      "password_hash": "$2b$12$HsXFjN7j5niUPHkD0ByzfeW9FyBNKdNUiE2QP3OGm9eAMmPezx/r6",
+      "created_at": 1783407544.8150477
+    }
+  ]
+}

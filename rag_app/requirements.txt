@@ -1,0 +1,12 @@
+numpy
+faiss-cpu
+requests
+sentence-transformers
+fastapi
+uvicorn[standard]
+starlette
+pydantic
+bcrypt
+python-dotenv
+python-multipart
+itsdangerous

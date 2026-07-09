@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>AuraHealth Nexus Assistant</title>
+<link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div class="app">
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <button class="new-chat-btn" id="newChatBtn">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        New chat
+      </button>
+
+      <div class="chat-list" id="chatList"></div>
+
+      <div class="sidebar-footer">
+        <button class="nav-item" id="kbNavBtn">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2Z" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          Knowledge base
+        </button>
+      </div>
+    </aside>
+
+    <!-- Chat view -->
+    <main class="main" id="chatView">
+      <div class="topbar">
+        <span class="topbar-title" id="chatTitle">AuraHealth Nexus Assistant</span>
+      </div>
+
+      <div class="messages" id="messages">
+        <div class="empty-state" id="emptyState">
+          <h1>AuraHealth Nexus Assistant</h1>
+          <p>Ask a question about anything in the knowledge base.</p>
+        </div>
+      </div>
+
+      <div class="composer">
+        <div class="composer-inner">
+          <textarea id="composerInput" placeholder="Message AuraHealth Nexus Assistant…" rows="1"></textarea>
+          <button id="sendBtn" class="send-btn" disabled>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><path d="M12 19V5M12 5l-6 6M12 5l6 6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+        </div>
+        <div class="composer-hint">Answers are grounded only in documents in the knowledge base.</div>
+      </div>
+    </main>
+
+    <!-- Knowledge base view -->
+    <main class="main kb-view hidden" id="kbView">
+      <div class="topbar">
+        <span class="topbar-title">Knowledge base</span>
+      </div>
+
+      <div class="kb-content">
+        <div class="kb-upload" id="dropZone">
+          <input type="file" id="fileInput" multiple accept=".txt,.md" hidden />
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none"><path d="M12 16V4M12 4l-4.5 4.5M12 4l4.5 4.5" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-2" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
+          <p><strong>Click to upload</strong> or drag and drop</p>
+          <p class="kb-upload-hint">.txt or .md — added to the knowledge base immediately</p>
+        </div>
+
+        <div class="kb-list-header">
+          <span>Documents</span>
+          <span id="kbCount">0 files</span>
+        </div>
+        <div class="kb-list" id="kbList"></div>
+      </div>
+    </main>
+
+  </div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>
